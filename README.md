@@ -1,4 +1,10 @@
 ### Hi there 👋
+$ whoami
+Carsten Stamm
+$ cat role.txt
+IT-Consultant · Mobile, Collaboration, Hybrid Cloud, KI & Security
+$ echo $LOCATION
+Kleve · DACH-Region
 
 <!--
 **PadawanDeluxe/PadawanDeluXe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
